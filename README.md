@@ -34,7 +34,7 @@ I'm a **Front-End Developer** at **Pusula Kurumsal İş Çözümleri**, working 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Rota Pusulası**](https://github.com/miracerdin1/yol-haritasi) | Route planner that avoids costly roads and hands off to Google Maps / Yandex | Vue, TypeScript, Vite |
+| [**Yol Haritası**](https://github.com/miracerdin1/yol-haritasi) | Route planner that avoids costly roads and hands off to Google Maps / Yandex | Vue, TypeScript, Vite |
 | [**Kronik Sorunlar**](https://github.com/miracerdin1/kronik-sorunlar) | Known chronic problems of cars sold in Turkey, verified by multiple sources | Next.js, TypeScript |
 | [**linkflow-server**](https://github.com/miracerdin1/linkflow-server) | Real-time bookmark and collection API with SSR bio pages | Express, Socket.io, MongoDB |
 | [**mobile**](https://github.com/miracerdin1/mobile) | Bookmark and shared collection app with push notifications | React Native, Expo |
