@@ -1,16 +1,16 @@
-## Hi there 👋
+# Miraç Erdin
 
-<!--
-**miracerdin1/miracerdin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer focused on Vue.js and TypeScript. I build enterprise healthcare platforms at Pusula Kurumsal İş Çözümleri.
 
-Here are some ideas to get you started:
+- **Stack:** Vue.js, TypeScript, Vite, Python
+- **Currently:** Learning .NET backend development
+- **Background:** Team lead in the public sector (2014–2021), managing a 5-person cross-functional team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[Rota Pusulası](https://github.com/miracerdin1/yol-haritasi):** Route planner in Vue + TypeScript that avoids costly roads and estimates trip costs, with a handoff to Google Maps
+- **[linkflow-server](https://github.com/miracerdin1/linkflow-server):** TypeScript backend
+- **[portfolio](https://github.com/miracerdin1/portfolio)**, **[mobile](https://github.com/miracerdin1/mobile)**, **[sesli-asistan](https://github.com/miracerdin1/sesli-asistan)**
+
+## Contact
+- LinkedIn: <your link>
+- Email: <your email>
