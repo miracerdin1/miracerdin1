@@ -47,6 +47,13 @@ I'm a **Front-End Developer** at **Pusula Kurumsal İş Çözümleri**, working 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracerdin1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miracerdin1/miracerdin1/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/miracerdin1/miracerdin1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">📫 Reach me on <a href="https://www.linkedin.com/in/mirac-erdin/">LinkedIn</a> or <a href="mailto:miracerdin@gmail.com">email</a>.</p>
